@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    line-height: 1.4;
+    color: rgb(0, 0, 0);
+    background-color: rgb(251, 249, 241);
+}
+
+.site-header{
+    background-color: rgb(156, 200, 240);
+    color: black;
+    padding: 1rem 0;
+    text-align: center;
+}
