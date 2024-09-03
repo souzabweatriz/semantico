@@ -28,3 +28,30 @@ body{
     display: flex;
     justify-content: center;
 }
+
+.main-nav{
+    margin: 0 15px;
+}
+.main-nav .nav-link{
+    color: black;
+    transition: color 0.3s;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.main-nav .nav-link:hover{
+    color: blue;
+}
+
+main-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.article{
+    
+}
